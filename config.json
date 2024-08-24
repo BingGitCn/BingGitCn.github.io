@@ -6,6 +6,7 @@
     "singlePage":["about"],
     "homeUrl":"https://blog.shici.online/",
     "startSite":"09/30/2018",
+    "needComment":0,
     "style": "<link href='https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io@main/_assets/style2.css' rel='stylesheet' /><style>.markdown-body{font-family: myFira, myLXGW, Arial;}</style><style>#postBody img {display: block; margin-left: auto; margin-right: auto;}</style>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
 
