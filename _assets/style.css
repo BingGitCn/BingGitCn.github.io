@@ -8,7 +8,7 @@
 	src: url('https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/LXGWWenKai-Regular.ttf');
 }
 
-*{
+body{
 	font-family: 'myFira', 'myLXGW';
 	font-size: 20;
 }
