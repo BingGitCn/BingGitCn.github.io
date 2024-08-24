@@ -6,7 +6,7 @@
     "singlePage":["about"],
     "homeUrl":"https://blog.shici.online/",
     "startSite":"09/30/2018",
-    "style": "<link href='https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io@main/_assets/style.css' rel='stylesheet' /><style>.markdown-body{font-family: myFira, myLXGW, Arial;}</style><style>#postBody img {display: block; margin-left: auto; margin-right: auto;}</style>"
+    "style": "<link href='https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io@main/_assets/style.css' rel='stylesheet' /><style>.markdown-body{font-family: myFira, myLXGW, Arial;}</style><style>#postBody img {display: block; margin-left: auto; margin-right: auto;}</style>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
 
 }
