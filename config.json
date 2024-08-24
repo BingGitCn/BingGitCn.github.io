@@ -2,8 +2,8 @@
     "title":"Bing's Blog",
     "subTitle":"浮光掠影，如意安宁。\r\n松子顺着山坡滚落，你来到了这里。",
     "avatarUrl":"https://avatars.githubusercontent.com/u/23565059?v=4",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
     "singlePage":["about"],
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"
 
 }
