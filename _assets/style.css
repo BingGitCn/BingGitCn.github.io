@@ -1,23 +1,18 @@
 @font-face {
-	font-family: 'myLXGW';
+	font-family: 'LXGW WenKai';
 	src: url('https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/LXGWWenKai-Regular.ttf');
 }
-
-@font-face {
-	font-family: 'myFira';
-	src: url('https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/LXGWWenKai-Regular.ttf');
-}
-
+ 
 body{
-	font-family: 'myFira', 'myLXGW';
+	font-family: 'myLXGW';
 	font-size: 20;
 }
 
 .markdown-body{
-	font-family: 'myFira', 'myLXGW';
+	font-family: 'myLXGW';
 	font-size: 18;
 }
 
 .markdown-title{
-	font-family: 'myFira', 'myLXGW';
+	font-family: 'myLXGW';
 }
