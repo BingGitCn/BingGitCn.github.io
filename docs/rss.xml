@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Bing's Blog</title><link>https://blog.shici.online/</link><description>溪边照影行，天在清溪底。天上有行云，人在行云里。</description><copyright>Bing's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/IMG_0558.jpg</url><title>avatar</title><link>https://blog.shici.online/</link></image><lastBuildDate>Tue, 27 Aug 2024 09:35:53 +0000</lastBuildDate><managingEditor>Bing's Blog</managingEditor><ttl>60</ttl><webMaster>Bing's Blog</webMaster><item><title>HSV通道对应颜色数值参考</title><link>https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</link><description># 默认 HSV 取值范围&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Bing's Blog</title><link>https://blog.shici.online/</link><description>溪边照影行，天在清溪底。天上有行云，人在行云里。</description><copyright>Bing's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/IMG_0558.jpg</url><title>avatar</title><link>https://blog.shici.online/</link></image><lastBuildDate>Tue, 27 Aug 2024 09:46:24 +0000</lastBuildDate><managingEditor>Bing's Blog</managingEditor><ttl>60</ttl><webMaster>Bing's Blog</webMaster><item><title>HSV通道对应颜色数值参考</title><link>https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</link><description># 默认 HSV 取值范围&#13;
 &#13;
 | 颜色 | H min | H max | S min | S max | V min | V max |&#13;
 |-------|-------|-------|-------|-------|-------|-------|&#13;
@@ -48,7 +48,15 @@
 | 紫   | 125   | 155   | 43    | 255   | 46    | 255   |&#13;
 &#13;
 &#13;
-&lt;!-- ##{'timestamp':1685959200}## --&gt;。</description><guid isPermaLink="true">https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</guid><pubDate>Mon, 05 Jun 2023 10:00:00 +0000</pubDate></item><item><title>Rime（中州韵）输入法设置</title><link>https://blog.shici.online//post/Rime%EF%BC%88-zhong-zhou-yun-%EF%BC%89-shu-ru-fa-she-zhi.html</link><description>![PixPin_2024-08-27_13-26-57.png](https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/PixPin_2024-08-27_13-26-57.png)&#13;
+&lt;!-- ##{'timestamp':1685959200}## --&gt;。</description><guid isPermaLink="true">https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</guid><pubDate>Mon, 05 Jun 2023 10:00:00 +0000</pubDate></item><item><title>Framework 项目升级 NET6 </title><link>https://blog.shici.online//post/Framework%20-xiang-mu-sheng-ji-%20NET6%20.html</link><description>[官方文档](https://dotnet.microsoft.com/zh-cn/platform/upgrade-assistant/tutorial/install-upgrade-assistant)&#13;
+&#13;
+1. **备份项目先！！！**&#13;
+2. 安装升级助手：**cmd** 全局安装`dotnet tool install -g upgrade-assistant`&#13;
+3. **cmd** 运行：`dotnet dev-certs https --trust`&#13;
+4. 项目所在文件夹，按住 **shift** 右键打开 **powershell**&#13;
+5. 输入升级的 **sln** 文件：`upgrade-assistant upgrade .\WpfApp2.sln`&#13;
+6. 如果提示需要安装运行时，根据提示点击链接下载安装桌面运行时即可&#13;
+7. 键盘上下键选择：这里选择仅更新项目 **SDK style**，而不是更新整个项目。</description><guid isPermaLink="true">https://blog.shici.online//post/Framework%20-xiang-mu-sheng-ji-%20NET6%20.html</guid><pubDate>Sat, 20 May 2023 09:31:45 +0000</pubDate></item><item><title>Rime（中州韵）输入法设置</title><link>https://blog.shici.online//post/Rime%EF%BC%88-zhong-zhou-yun-%EF%BC%89-shu-ru-fa-she-zhi.html</link><description>![PixPin_2024-08-27_13-26-57.png](https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/PixPin_2024-08-27_13-26-57.png)&#13;
 &#13;
 Rime 全名是「中州韵输入法引擎」，Rime 不是一种输入法。</description><guid isPermaLink="true">https://blog.shici.online//post/Rime%EF%BC%88-zhong-zhou-yun-%EF%BC%89-shu-ru-fa-she-zhi.html</guid><pubDate>Thu, 16 Mar 2023 10:00:00 +0000</pubDate></item><item><title>Visual Studio 插件推荐</title><link>https://blog.shici.online//post/Visual%20Studio%20-cha-jian-tui-jian.html</link><description>非必要安装，但推荐安装的扩展。</description><guid isPermaLink="true">https://blog.shici.online//post/Visual%20Studio%20-cha-jian-tui-jian.html</guid><pubDate>Wed, 23 Feb 2022 09:31:45 +0000</pubDate></item><item><title>Edge插件</title><link>https://blog.shici.online//post/Edge-cha-jian.html</link><description>- 去广告：[Adblock Plus](https://microsoftedge.microsoft.com/addons/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/gmgoamodcdcjnbaobigkjelfplakmdhh)&#13;
 - 个性化主页：[几枝](https://microsoftedge.microsoft.com/addons/detail/%E5%87%A0%E6%9E%9D/ldillfomnjcfiagmpbphgijjegholonn)&#13;
