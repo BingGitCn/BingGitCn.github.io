@@ -79,4 +79,4 @@ sync_dir: 'C:\Users\UserName\Nutstore\1\我的坚果云\Syncs\Rime'
 ```
 
 ## Step7：快捷键 
-`ctrl + \`` 或者 `f4`，切换简繁等操作。 
+ctrl + ` 或者 f4，切换简繁等操作。 
