@@ -1,4 +1,4 @@
-[PixPin_2024-08-27_13-26-57.png](https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/PixPin_2024-08-27_13-26-57.png)
+![PixPin_2024-08-27_13-26-57.png](https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/PixPin_2024-08-27_13-26-57.png)
 
 Rime 全名是「中州韵输入法引擎」，Rime 不是一种输入法。是从各种常见键盘输入法中提炼出来的抽象的输入算法框架，需要搭配输入方案来使用。
 
