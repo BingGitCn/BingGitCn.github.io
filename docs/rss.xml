@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Bing's Blog</title><link>https://blog.shici.online/</link><description>溪边照影行，天在清溪底。天上有行云，人在行云里。</description><copyright>Bing's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/IMG_0558.jpg</url><title>avatar</title><link>https://blog.shici.online/</link></image><lastBuildDate>Tue, 27 Aug 2024 09:46:24 +0000</lastBuildDate><managingEditor>Bing's Blog</managingEditor><ttl>60</ttl><webMaster>Bing's Blog</webMaster><item><title>HSV通道对应颜色数值参考</title><link>https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</link><description># 默认 HSV 取值范围&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Bing's Blog</title><link>https://blog.shici.online/</link><description>溪边照影行，天在清溪底。天上有行云，人在行云里。</description><copyright>Bing's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/BingGitCn/BingGitCn.github.io/images/IMG_0558.jpg</url><title>avatar</title><link>https://blog.shici.online/</link></image><lastBuildDate>Mon, 02 Sep 2024 06:43:09 +0000</lastBuildDate><managingEditor>Bing's Blog</managingEditor><ttl>60</ttl><webMaster>Bing's Blog</webMaster><item><title>Visual Studio 常用快捷键</title><link>https://blog.shici.online//post/Visual%20Studio%20-chang-yong-kuai-jie-jian.html</link><description>- 注释代码：`Ctrl + K` ,`Ctrl + C` &#13;
+- 取消注释代码：`Ctrl + K` ,`Ctrl + U`&#13;
+- 新版注释与取消注释代码：`Ctrl + / ` &#13;
+- 多行注释与取消注释：`Ctrl + Shift + / `&#13;
+&#13;
+- 折叠代码：`Ctrl + M` ,`Ctrl + O` &#13;
+- 展开代码：`Ctrl + M` ,`Ctrl + L` &#13;
+- 快速折叠展开{}：`Ctrl + M` ,`Ctrl +M` &#13;
+&#13;
+- 快速跳转`{}`开头和结尾：鼠标防止方法`{`或`}`处，`Ctrl + ]` 。</description><guid isPermaLink="true">https://blog.shici.online//post/Visual%20Studio%20-chang-yong-kuai-jie-jian.html</guid><pubDate>Mon, 02 Sep 2024 06:42:36 +0000</pubDate></item><item><title>HSV通道对应颜色数值参考</title><link>https://blog.shici.online//post/HSV-tong-dao-dui-ying-yan-se-shu-zhi-can-kao.html</link><description># 默认 HSV 取值范围&#13;
 &#13;
 | 颜色 | H min | H max | S min | S max | V min | V max |&#13;
 |-------|-------|-------|-------|-------|-------|-------|&#13;
